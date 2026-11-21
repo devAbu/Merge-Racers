@@ -1,0 +1,17 @@
+{
+  "name": "merge-racers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Merge Racers - offline idle merge racing game",
+  "scripts": {
+    "start": "npx --yes http-server www -p 8080 -c-1",
+    "sim": "node tools/sim.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

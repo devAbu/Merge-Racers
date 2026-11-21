@@ -1,0 +1,9 @@
+{
+  "appId": "com.devabu.mergeracers",
+  "appName": "Merge Racers",
+  "webDir": "www",
+  "backgroundColor": "#10151f",
+  "android": {
+    "allowMixedContent": false
+  }
+}
